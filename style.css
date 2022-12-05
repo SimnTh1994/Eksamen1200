@@ -392,6 +392,9 @@ color: white
 }
 
 /* CSS FOR MENYEN - herifra og ned*/
+
+/* Much of this code from this section (CSS FOR MENYEN) is inspired by the guidance and codes from this youtuber named "Code with Abdullah Nahian" 
+    and the following video: https://youtu.be/P3NL6tiIqrM */
 .meny-body {
   margin: 0px;
   padding-left: 40px;
